@@ -1,0 +1,24 @@
+# Arquivos e pastas de Build
+###########################
+# Pastas geradas pelo compilador, contêm os binários (executáveis) do projeto.
+[Bb]in/
+[Oo]bj/
+
+# Arquivos de usuário do Visual Studio
+#####################################
+# Arquivos que armazenam as configurações específicas do seu Visual Studio/VS Code.
+*.user
+*.suo
+*.vs/
+.vscode/
+
+# Pacotes e Ferramentas .NET
+############################
+# Pastas de pacotes NuGet restaurados.
+packages/
+
+# Arquivos de metadados e logs
+#############################
+*.log
+*.bak
+*~
