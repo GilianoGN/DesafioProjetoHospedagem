@@ -30,8 +30,8 @@ Para testar o Sistema de Gerenciamento de Hospedagem em sua máquina:
 1. __Pré-requisitos__: Certifique-se de ter o __.NET SDK__ instalado (versão 6.0 ou superior, recomendada para C# moderno).
 2. __Clonar o Repositório__:
 ```Bash
-git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
-cd NOME_DO_REPOSITORIO
+git clone https://github.com/GilianoGN/DesafioProjetoHospedagem.git
+cd DesafioProjetoHospedagem
 ```
 3. __Executar o Projeto__:Utilize o comando _dotnet run_ no terminal, dentro da pasta do projeto.
 ```Bash
